@@ -15,9 +15,9 @@ const Works = () => {
                 <a href='https://github.com/Hitesh-Gandhi/Drawing-App'><img src={Portfolio1} alt="" className="worksImg"/></a>
                 <a href='https://github.com/Hitesh-Gandhi/7-Min-Workout-App'><img src={Portfolio2} alt="" className="worksImg"/></a>
                 <a href='https://github.com/Hitesh-Gandhi/Basic-Calculator'><img src={Portfolio3} alt="" className="worksImg"/></a>
-                {/* <a href='https://github.com/Hitesh-Gandhi/Sticky-Notes-App'><img src={Portfolio4} alt="" className="worksImg"/></a>
+                <a href='https://github.com/Hitesh-Gandhi/Sticky-Notes-App'><img src={Portfolio4} alt="" className="worksImg"/></a>
                 <a href='https://github.com/Hitesh-Gandhi/Appointment-App'><img src={Portfolio5} alt="" className="worksImg"/></a>
-                <a href='https://github.com/Hitesh-Gandhi/Friends_Social'><img src={Portfolio6} alt="" className="worksImg"/></a> */}
+                <a href='https://github.com/Hitesh-Gandhi/Friends_Social'><img src={Portfolio6} alt="" className="worksImg"/></a>
             </div>
             <button className="worksBtn">See More</button>
         </section>
